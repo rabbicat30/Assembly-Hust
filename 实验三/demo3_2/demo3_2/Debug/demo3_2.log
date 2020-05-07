@@ -1,0 +1,4 @@
+﻿  Assembling MENU_ASM.asm...
+  MAIN.cpp
+LINK : warning LNK4098: 默认库“UCRT.LIB”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  demo3_2.vcxproj -> D:\VisualStudioFile\demo3_2\Debug\demo3_2.exe
