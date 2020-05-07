@@ -1,0 +1,5 @@
+﻿  Assembling EDIT.asm...
+EDIT.asm(154): warning A6004: procedure argument or local not referenced : hPrevInst
+EDIT.asm(154): warning A6004: procedure argument or local not referenced : CmdLine
+EDIT.asm(154): warning A6004: procedure argument or local not referenced : CmdShow
+  Project1.vcxproj -> D:\VisualStudioFile\Project1\Debug\Project1.exe
